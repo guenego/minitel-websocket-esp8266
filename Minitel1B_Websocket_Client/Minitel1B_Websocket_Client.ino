@@ -2,7 +2,7 @@
  * Sample code for connexion to minitel videotex server via websocket 
  * Requirements: ESP8266 connected to minitel DIN port and a WiFi connexion
  * 
- * created by iodeo - dec 2021 - modifié par guenego dec 2026
+ * created by iodeo - dec 2021 - modifié par guenego dec 2025
  * inspiré de
  * https://github.com/iodeo/Minitel-ESP32/blob/main/arduino/Minitel1B_Websocket_Client/Minitel1B_Websocket_Client.ino
  * https://github.com/Links2004/arduinoWebSockets/blob/master/examples/esp8266_pico/WebSocketClient/WebSocketClient.ino
